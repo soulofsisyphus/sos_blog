@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Top Girl - Just Sharing Experience",
+      "category": "Games",
+      "date": "2025-11-05",
+      "image": "assets/images/post1.jpg",
+      "excerpt": "Become CEO, Manage Artist And Dominate the industry.",
+      "content": "This post talks about how I started playing Top Girl"
+    },
+    {
+      "id": 2,
+      "title": "Albion Online - Wandering In The World Of Albion",
+      "category": "Games",
+      "date": "2025-11-07",
+      "image": "assets/images/post2.jpg",
+      "excerpt": "Gotta be an adeventurer",
+      "content": "Fight, Craft, And Level Up"
+    },
+    {
+      "id": 3,
+      "title": "Debt, Debt Until Death",
+      "category": "Finance",
+      "date": "2025-03-10",
+      "image": "assets/images/post3.jpg",
+      "excerpt": "Lets Become Debt Free Financially",
+      "content": "I'm in debt."
+    },
+    {
+      "id": 4,
+      "title": "Porn Exploration - The New Drug",
+      "category": "The Truth About Porn",
+      "date": "2025-04-20",
+      "image": "assets/images/post4.jpg",
+      "excerpt": "Exploring how design thinking and storytelling can turn a simple project into something that moves people.",
+      "content": "This post dives into the synergy between art and logic — how the act of coding can be as expressive as painting, and how design thinking shapes meaningful user experiences."
+    },
+    {
+      "id": 5,
+      "title": "The Myth of Sisyphus & The Creator’s Loop",
+      "category": "Philosophy",
+      "date": "2025-05-05",
+      "image": "assets/images/post5.jpg",
+      "excerpt": "An introspective dive into the myth of Sisyphus — and how it mirrors the life of a modern creator constantly pushing the boulder uphill.",
+      "content": "Drawing parallels between Sisyphus and modern creative struggles, this essay explores the idea of embracing the endless cycle of effort, passion, and self-discovery."
+    }
+  ]
+}
